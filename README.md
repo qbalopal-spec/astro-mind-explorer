@@ -23,7 +23,7 @@ Follow these steps:
 git clone https://github.com/qbalopal-spec/astro-mind-explorer.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd astro-mind-explorer
 
 # Step 3: Install the necessary dependencies.
 npm i
