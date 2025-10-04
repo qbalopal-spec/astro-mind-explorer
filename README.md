@@ -1,11 +1,6 @@
 # 🌙 Moon Hackers 🚀
 
- __  __                        _    _            _             
-|  \/  | ___   ___  _ __   ___| | _| | ___   ___| | _____ _ __ 
-| |\/| |/ _ \ / _ \| '_ \ / _ \ |/ / |/ _ \ / __| |/ / _ \ '__|
-| |  | | (_) | (_) | | | |  __/   <| | (_) | (__|   <  __/ |   
-|_|  |_|\___/ \___/|_| |_|\___|_|\_\_|\___/ \___|_|\_\___|_|   
-                                                               
+        
 
 ## Project info
 
@@ -13,11 +8,7 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9fbcaf2b-e7e7-468b-a242-b4eece14fc70) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -65,14 +56,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9fbcaf2b-e7e7-468b-a242-b4eece14fc70) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+d
